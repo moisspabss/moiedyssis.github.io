@@ -1,0 +1,20 @@
+/camera/
+<div id="sub_footer">
+      <div class="container_12 clearfix">
+        <div class="grid_12"> <a class="logo left" href="#">meetme</a>
+          <p><small>&copy;&nbsp; gETTo. All rights reserved. | <a href="copyright.php">Copyright</a> | <a href="terms.php">Terms and Conditions</a> | <a href="privacy.php">Privacy Policy</a> | <a class="current" href="about.php">About Us</a></small></p>
+        </div>
+        <!-- end grid -->
+      </div>
+	  <!-- end container -->
+    </div>
+
+    /home/
+    <div id="sub_footer">
+		<div class="container_12 clearfix">
+		  <div class="grid_12"> <a class="logo left" href="#">gETTo</a>
+		    <p><small>&copy;&nbsp; All rights reserved. | <a href="copyright.php">Copyright</a> | <a href="terms.php">Terms and Conditions</a> | <a href="privacy.php">Privacy Policy</a> | <a class="current" href="about.php">About Us</a></small></p>
+	      </div>
+		  
+		</div>
+</div>
